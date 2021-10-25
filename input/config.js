@@ -42,56 +42,42 @@ const getElements = (path) => {
 
 const layers = [
   {
-    id: 1,
-    name: 'background',
     location: `${dir}/Background/`,
     elements: getElements(`${dir}/Background/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height}
   },
   {
-    id: 2,
-    name: 'splatter',
     location: `${dir}/Splatters/`,
     elements: getElements(`${dir}/Splatters/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height}
   },
   {
-    id: 3,
-    name: 'tea',
     location: `${dir}/Tea/`,
     elements: getElements(`${dir}/Tea/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height}
   },
   {
-    id: 4,
-    name: 'boba',
     location: `${dir}/Boba/`,
     elements: getElements(`${dir}/Boba/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height}
   },
   {
-    id: 5,
-    name: 'cup',
     location: `${dir}/Cup/`,
     elements: getElements(`${dir}/Cup/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height}
   },
   {
-    id: 6,
-    name: 'lid',
     location: `${dir}/Lid/`,
     elements: getElements(`${dir}/Lid/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height}
   },
   {
-    id: 7,
-    name: 'straw',
     location: `${dir}/Straw/`,
     elements: getElements(`${dir}/Straw/`),
     position: { x: 0, y: 0 },

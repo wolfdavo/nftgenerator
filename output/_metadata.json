@@ -1,0 +1,682 @@
+[
+  {
+    "dna": 97138389789662,
+    "edition": 1,
+    "date": 1635126347344,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 93552335928865,
+    "edition": 2,
+    "date": 1635126347912,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 94249246885701,
+    "edition": 3,
+    "date": 1635126348537,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "rainbow",
+        "rarity": "rare"
+      },
+      {
+        "name": "milk",
+        "rarity": "common"
+      },
+      {
+        "name": "radioactive",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 56768160757558,
+    "edition": 4,
+    "date": 1635126349077,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blood",
+        "rarity": "rare"
+      },
+      {
+        "name": "matcha",
+        "rarity": "common"
+      },
+      {
+        "name": "clear",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "dna": 61646374139960,
+    "edition": 5,
+    "date": 1635126349604,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blood",
+        "rarity": "rare"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 89650535140745,
+    "edition": 6,
+    "date": 1635126350166,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "rainbow",
+        "rarity": "rare"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 13579337953002,
+    "edition": 7,
+    "date": 1635126350692,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 61108306990651,
+    "edition": 8,
+    "date": 1635126351220,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blood",
+        "rarity": "rare"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 49339658735910,
+    "edition": 9,
+    "date": 1635126351761,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "rainbow",
+        "rarity": "rare"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 71918991521973,
+    "edition": 10,
+    "date": 1635126352284,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blood",
+        "rarity": "rare"
+      },
+      {
+        "name": "milkfoam",
+        "rarity": "rare"
+      },
+      {
+        "name": "regular",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      },
+      {
+        "name": "yellow",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 27676775872559,
+    "edition": 11,
+    "date": 1635126352812,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      },
+      {
+        "name": "milkfoam",
+        "rarity": "rare"
+      },
+      {
+        "name": "regular",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      },
+      {
+        "name": "yellow",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 20867298250182,
+    "edition": 12,
+    "date": 1635126353340,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "black",
+        "rarity": "common"
+      },
+      {
+        "name": "matcha",
+        "rarity": "common"
+      },
+      {
+        "name": "clear",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "dna": 14214503028893,
+    "edition": 13,
+    "date": 1635126353962,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "rainbow",
+        "rarity": "rare"
+      },
+      {
+        "name": "milk",
+        "rarity": "common"
+      },
+      {
+        "name": "radioactive",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 33896147079462,
+    "edition": 14,
+    "date": 1635126354495,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 64696709439534,
+    "edition": 15,
+    "date": 1635126355041,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "rainbow",
+        "rarity": "rare"
+      },
+      {
+        "name": "matcha",
+        "rarity": "common"
+      },
+      {
+        "name": "clear",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "dna": 82029361394204,
+    "edition": 16,
+    "date": 1635126355649,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      },
+      {
+        "name": "milk",
+        "rarity": "common"
+      },
+      {
+        "name": "radioactive",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 36081383266161,
+    "edition": 17,
+    "date": 1635126356171,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blood",
+        "rarity": "rare"
+      },
+      {
+        "name": "matcha",
+        "rarity": "common"
+      },
+      {
+        "name": "clear",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "dna": 48396078701185,
+    "edition": 18,
+    "date": 1635126356691,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "matcha",
+        "rarity": "common"
+      },
+      {
+        "name": "clear",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      },
+      {
+        "name": "black",
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "dna": 71099514818929,
+    "edition": 19,
+    "date": 1635126357207,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "blood",
+        "rarity": "rare"
+      },
+      {
+        "name": "milkfoam",
+        "rarity": "rare"
+      },
+      {
+        "name": "regular",
+        "rarity": "common"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "red",
+        "rarity": "common"
+      },
+      {
+        "name": "yellow",
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "dna": 49907458114861,
+    "edition": 20,
+    "date": 1635126357786,
+    "attributes": [
+      {
+        "name": "grey",
+        "rarity": "common"
+      },
+      {
+        "name": "rainbow",
+        "rarity": "rare"
+      },
+      {
+        "name": "matchafade",
+        "rarity": "rare"
+      },
+      {
+        "name": "diamond",
+        "rarity": "rare"
+      },
+      {
+        "name": "cup"
+      },
+      {
+        "name": "green",
+        "rarity": "common"
+      },
+      {
+        "name": "blue",
+        "rarity": "common"
+      }
+    ]
+  }
+]
